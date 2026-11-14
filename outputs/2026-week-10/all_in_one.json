@@ -15,7 +15,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-14T17:05:02-05:00",
+    "generated_at_et": "2026-11-14T17:08:35-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -52,7 +52,7 @@
     },
     "started_games_excluded": true,
     "started_games_note": "Week 1 opens on a Wednesday, so by the Sunday run the Wed/Thu/Sat props are already settled. Players whose kickoff has passed are excluded outright.",
-    "generated_at_et": "2026-11-14T17:05:39-05:00",
+    "generated_at_et": "2026-11-14T17:09:05-05:00",
     "p_target": {
       "pass_yards": 0.7,
       "rush_yards": 0.7,
