@@ -9,7 +9,7 @@
     "completed_weeks": 9,
     "first_kickoff": "2026-11-12",
     "last_game": "2026-11-16",
-    "generated_at_et": "2026-11-14T17:08:35-05:00",
+    "generated_at_et": "2026-11-15T08:58:09-05:00",
     "label": "2026-week-10"
   },
   "method": {
@@ -8492,7 +8492,7 @@
         "inside_10_carries": 0.0142,
         "inside_10_targets": 0.086
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
@@ -14992,7 +14992,7 @@
         "inside_10_carries": 0.019,
         "inside_10_targets": 0.023
       },
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": []
     },
     {
