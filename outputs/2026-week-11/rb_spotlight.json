@@ -16,7 +16,7 @@
     "completed_weeks": 10,
     "first_kickoff": "2026-11-19",
     "last_game": "2026-11-23",
-    "generated_at_et": "2026-11-21T08:00:50-05:00",
+    "generated_at_et": "2026-11-22T09:02:36-05:00",
     "label": "2026-week-11"
   },
   "method": {
@@ -975,7 +975,7 @@
       "kickoff": "Monday 20:15 ET",
       "score": 43.468,
       "games_played": 17,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "touches_per_game": 14.0482,
       "carries_per_game": 13.0953,
@@ -1053,7 +1053,7 @@
       "kickoff": "Monday 20:15 ET",
       "score": 40.403,
       "games_played": 17,
-      "injury_flag": "",
+      "injury_flag": "Questionable",
       "flags": [],
       "touches_per_game": 10.4676,
       "carries_per_game": 8.0949,
